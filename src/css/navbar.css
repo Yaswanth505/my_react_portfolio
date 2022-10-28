@@ -1,0 +1,21 @@
+a{
+    text-decoration:none;
+    color: white
+}
+
+li{
+    list-style: none;
+}
+.navbar_container{
+    background-color:rgb(33, 32, 32);
+    
+}
+.navItems{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    height: 10vh;
+    font-size:20px;
+    justify-content: center;
+    
+}
